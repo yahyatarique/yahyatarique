@@ -13,8 +13,6 @@ I'm Yahya, a software engineer at **Simublade**, where I craft intuitive user ex
 
 Shopify-based e-commerce for used engines, transmissions & car parts. React Native mobile app for Belize's leading airline, integrating with TTI's flight systems API.
 
----
-
 ### Bitxia Tech Pvt. Ltd. — Software Engineer (Jul 2024 – Nov 2024)
 
 | [![eNAM 1.2 Platform](https://www.yahyatarique.dev/images/projects/enam/cover.png)](https://yahyatarique.dev/work/enam-platform)<br>[*eNAM 1.2 Platform*](https://yahyatarique.dev/work/enam-platform) |
@@ -22,19 +20,12 @@ Shopify-based e-commerce for used engines, transmissions & car parts. React Nati
 
 National-level mandi trading system supporting ONDC integration. Contributed to eNAM 2.0 planning and design. Curated reusable NextJS-based Admin Panels.
 
----
-
 ### Simublade Technology Pvt. Ltd. — Jr. Software Engineer (Feb 2023 – Jul 2024)
 
 | [![Used Engines Inc.](assets/used-engines.png)](https://yahyatarique.dev/work/used-engines)<br>[*Used Engines Inc.*](https://yahyatarique.dev/work/used-engines) |
 | :-: |
 
 NextJS-based Admin Panels, OfferApproved's website/admin panels, and the e-commerce platform for Used Engines Inc.
-
-## Education
-
-- **Galgotias University** — Software engineering, minor in UX design. Member, CamCircle.
-- **Gandhi Co-Ed. Sr. Secondary School** — Physics, Chemistry, Maths with Computer Science. CBSE, New Delhi.
 
 ## Contact
 
@@ -47,7 +38,7 @@ NextJS-based Admin Panels, OfferApproved's website/admin panels, and the e-comme
 
 ## Languages and Tools
 
-<p align="center">
+<p align="start">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="32" height="32"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
@@ -64,8 +55,4 @@ NextJS-based Admin Panels, OfferApproved's website/admin panels, and the e-comme
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="32" height="32"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyatarique&show_icons=true&locale=en&layout=compact&theme=default" alt="top-langs" />
 </p>
