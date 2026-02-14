@@ -8,9 +8,10 @@ I'm Yahya, a software engineer at **Simublade**, where I craft intuitive user ex
 
 ### Simublade Technology Pvt. Ltd. — Software Engineer (Dec 2024 – Present)
 
-| [Thrifty Engines](https://yahyatarique.dev/work/thrifty-engines) | [Tropic Air](https://yahyatarique.dev/work/tropic-air) |
-| :---: | :---: |
-| [![Thrifty Engines](assets/thrifty-engines.png)](https://yahyatarique.dev/work/thrifty-engines) | [![Tropic Air](assets/tropic-air.png)](https://yahyatarique.dev/work/tropic-air) |
+| | |
+| :-: | :-: |
+| [![Thrifty Engines](https://www.yahyatarique.dev/images/projects/thrifty/cover.png)](https://yahyatarique.dev/work/thrifty-engines)<br>[*Thrifty Engines*](https://yahyatarique.dev/work/thrifty-engines) | [![Tropic Air](https://www.yahyatarique.dev/images/projects/tropic-air/cover.png)](https://yahyatarique.dev/work/tropic-air)<br>[*Tropic Air*](https://yahyatarique.dev/work/tropic-air) |
+| | |
 
 Shopify-based e-commerce for used engines, transmissions & car parts. React Native mobile app for Belize's leading airline, integrating with TTI's flight systems API.
 
@@ -18,9 +19,10 @@ Shopify-based e-commerce for used engines, transmissions & car parts. React Nati
 
 ### Bitxia Tech Pvt. Ltd. — Software Engineer (Jul 2024 – Nov 2024)
 
-| [eNAM 1.2 Platform](https://yahyatarique.dev/work/enam-platform) |
-| :---: |
-| [![eNAM Platform](assets/enam-platform.png)](https://yahyatarique.dev/work/enam-platform) |
+| | |
+| :---: | :---: |
+| <a href="https://yahyatarique.dev/work/enam-platform"><img src="https://www.yahyatarique.dev/images/projects/enam/cover.png" width="128" alt="eNAM" /></a><br>[*eNAM 1.2 Platform*](https://yahyatarique.dev/work/enam-platform) |
+| | |
 
 National-level mandi trading system supporting ONDC integration. Contributed to eNAM 2.0 planning and design. Curated reusable NextJS-based Admin Panels.
 
@@ -28,9 +30,10 @@ National-level mandi trading system supporting ONDC integration. Contributed to 
 
 ### Simublade Technology Pvt. Ltd. — Jr. Software Engineer (Feb 2023 – Jul 2024)
 
-| [Used Engines Inc.](https://yahyatarique.dev/work/used-engines) |
-| :---: |
-| [![Used Engines Inc.](assets/used-engines.png)](https://yahyatarique.dev/work/used-engines) |
+| | |
+| :-: | :-: |
+| [![Used Engines Inc.](https://www.yahyatarique.dev/images/projects/used-engines/cover.png)](https://yahyatarique.dev/work/used-engines)<br>[*Used Engines Inc.*](https://yahyatarique.dev/work/used-engines) |
+| | |
 
 NextJS-based Admin Panels, OfferApproved's website/admin panels, and the e-commerce platform for Used Engines Inc.
 
