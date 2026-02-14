@@ -8,7 +8,7 @@ I'm Yahya, a software engineer at **Simublade**, where I craft intuitive user ex
 
 ### Simublade Technology Pvt. Ltd. — Software Engineer (Dec 2024 – Present)
 
-| [![Thrifty Engines](https://www.yahyatarique.dev/images/projects/thrifty/cover.png)](https://yahyatarique.dev/work/thrifty-engines)<br>[*Thrifty Engines*](https://yahyatarique.dev/work/thrifty-engines) | [![Tropic Air](assets/tropic-air.png)](https://yahyatarique.dev/work/tropic-air)<br>[*Tropic Air*](https://yahyatarique.dev/work/tropic-air) |
+| [![Thrifty Engines](assets/thrifty-engines.png)](https://yahyatarique.dev/work/thrifty-engines)<br>[*Thrifty Engines*](https://yahyatarique.dev/work/thrifty-engines) | [![Tropic Air](assets/tropic-air.png)](https://yahyatarique.dev/work/tropic-air)<br>[*Tropic Air*](https://yahyatarique.dev/work/tropic-air) |
 | :-: | :-: |
 
 Shopify-based e-commerce for used engines, transmissions & car parts. React Native mobile app for Belize's leading airline, integrating with TTI's flight systems API.
