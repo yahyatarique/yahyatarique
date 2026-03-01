@@ -1,0 +1,13 @@
+/* Replace root variables with transparent */
+:root {
+    --background-color: transparent;
+    --text-color: transparent;
+    --border-color: transparent;
+    --border-radius: 0;
+    --border-width: 0;
+    --border-style: none;
+    --border-color: transparent;
+    --border-radius: 0;
+    --border-width: 0;
+    --border-style: none;
+}
