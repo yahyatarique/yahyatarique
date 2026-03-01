@@ -53,6 +53,8 @@ text-div > textarea, #starlight__sidebar, .sidebar-pane, .page--article, #xf-gui
 /* darkreader $ This is a example description */
 :root {
   --darkreader-background-ffffff: transparent !important;
+  --palette-background-paper: transparent !important;
+  --palette-background-default: transparent !important;
 }
 
 @layer {
