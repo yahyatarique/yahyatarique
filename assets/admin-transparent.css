@@ -61,6 +61,7 @@ text-div > textarea, #starlight__sidebar, .sidebar-pane, .page--article, #xf-gui
   body {
     --darkreader-background-ffffff: transparent !important;
     background-color: transparent !important;
+    --palette-background-paper: transparent !important;
   }
 }
 
