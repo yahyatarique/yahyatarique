@@ -30,7 +30,7 @@ AI video agents that talk, listen, and act in real time — client portal (Next.
 | [![Thrifty Engines](assets/thrifty-engines.png)](https://www.yahyatarique.dev/work/thrifty-engines?utm_source=github&utm_medium=profile&utm_campaign=readme)<br>[*Thrifty Engines*](https://www.yahyatarique.dev/work/thrifty-engines?utm_source=github&utm_medium=profile&utm_campaign=readme) | [![Tropic Air](assets/tropic-air.png)](https://www.yahyatarique.dev/work/tropic-air?utm_source=github&utm_medium=profile&utm_campaign=readme)<br>[*Tropic Air*](https://www.yahyatarique.dev/work/tropic-air?utm_source=github&utm_medium=profile&utm_campaign=readme) |
 | :-: | :-: |
 
-Shopify-based e-commerce for used engines, transmissions & car parts. React Native mobile app for Belize's leading airline, integrating with TTI's flight systems API.
+Shopify-based e-commerce for used engines, transmissions & car parts. React Native mobile app for Belize's leading airline, integrating with their flight systems API.
 
 ### Bitxia Tech Pvt. Ltd. — Software Engineer (Jul 2024 – Nov 2024)
 
